@@ -2,7 +2,7 @@
 
 ## Clonner le projet : 
 
-git commit clone https://github.com/bem-bola/pixabayTest.git
+git clone https://github.com/bem-bola/pixabayTest.git
 
 ## Une fois le projet clonné
 
